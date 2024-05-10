@@ -25,6 +25,7 @@
     "typescript": "^5.4.5"
   },
   "dependencies": {
+    "@prisma/client": "^5.13.0",
     "@types/jest": "^29.5.12",
     "dotenv": "^16.4.5",
     "dotenv-cli": "^7.4.2",
